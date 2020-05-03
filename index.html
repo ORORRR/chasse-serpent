@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Jeu</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+  </head>
+
+  <body>
+    <div id="entete"><p id="titre">Steph' contre les serpents</p></div>
+
+    <div id="espace"></div>
+
+    <div id="fondBody">
+    </div>
+
+    <div id="page">
+      <div id="container">
+        <p>&Eacute;crase les serpents avec l'aide de ton robot, avant qu'ils ne mangent tes rations !</p>
+        <div id="divCaneva">
+          <canvas id="myCanva" width="1216" height="768"></canvas>
+        </div>
+        <img id="fond" src="./img/fond.png" width="1024" height="512" alt="fond">
+      </div>
+
+      <div id="infos">
+        <img id="pinata" src="./img/pinataFortnite.png" width="300" height="548" alt="pignataFortnite">
+        <p>Application web réalisée lors de la nuit de l'info 2018.</p>
+        <div class="commande">
+          <div id="infoDriectionG">
+            <p>Pour d&eacute;placer Steph' :</p>
+            <img class="fleche" src="./img/toucheZ.png">
+            <img class="fleche" src="./img/toucheQ.png">
+            <img class="fleche" src="./img/toucheS.png">
+            <img class="fleche" src="./img/toucheD.png">
+          </div>
+          <div id="infoDriectionD">
+            <p>Pour d&eacute;placer le robot :</p>
+            <img class="fleche" src="./img/flecheDroite.png" >
+            <img class="fleche" src="./img/flecheHaut.png">
+            <img class="fleche" src="./img/flecheBas.png">
+            <img class="fleche" src="./img/flecheGauche.png">
+          </div>
+        </div>
+        <div class="commande commande2">
+          <div id="infoTotem">
+            <img class="fleche2" src="./img/totem.png">
+            <p>Le totem de Vipi s'active toutes les 20 secondes et écrase tous les serpents de la map</p>
+          </div>
+          <div id="infoRation">
+            <p>Tes rations ! 5 serpents suffisent à les dévorer entirement, protège-les !</p>
+            <img class="fleche2" src="./img/food.png">
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <a href="http://disc.univ-fcomte.fr/"><img class="sponsor" src="http://sciences.univ-fcomte.fr/download/ufr-st/image/laboratoires/femto-st.jpg" alt="DISC"></a>
+        <a href="http://www.univ-fcomte.fr/"><img class="sponsor" src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Universit%C3%A9_de_Franche-Comt%C3%A9_%28logo%29.svg/619px-Universit%C3%A9_de_Franche-Comt%C3%A9_%28logo%29.svg.png" alt="UFC"></a>
+        <a href="http://www.jet1oeil.com/"><img class="sponsor" src="http://www.jet1oeil.com/wp-content/uploads/2011/09/logo.png" alt="jet1oeil"></a>
+        <a href="http://www.smartesting.com/"><img class="sponsor" src="http://www.smartesting.com/resources/images/smartesting/logo-smartesting-white.png" alt="smartesting"></a>
+        <a href="https://hiptest.net/"><img class="sponsor" src="http://www.capitalgrandest.eu/wp-content/uploads/2016/01/hiptestLogo.jpg" alt="hiptest"></a>
+        <a href="http://www.skinsoft.fr/"><img class="sponsor" src="http://www.museumexperts.com/images/society/59fc4ad988169_logo%20skinsoft.jpg" alt="skinsoft"></a>
+        <a href="https://vixtechnology.com/"><img class="sponsor" src="https://upload.wikimedia.org/wikipedia/en/4/4e/Vix_Technology_logo.png" alt="Vix Technology"></a>
+      </footer>
+    </div>
+
+  </body>
+
+  <script src="js/main.js"></script>
+  <script type="text/javascript" src="js/robot.js"></script>
+  <script type="text/javascript" src="js/perso.js"></script>
+  <script type="text/javascript" src="js/food.js"></script>
+  <script type="text/javascript" src="js/totem.js"></script>
+  <script type="text/javascript" src="js/terrain.js"></script>
+  <script type="text/javascript" src="js/robotUI.js"></script>
+  <script type="text/javascript" src="js/element.js"></script>
+  <script type="text/javascript" src="js/snake.js"></script>
+  <script type="text/javascript" src="js/game.js"></script>
+
+</html>
