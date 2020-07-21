@@ -3,27 +3,29 @@ Chasse serpents est un jeu d'arcade, dans lequel vous incarné Steph, un explora
 ___
 
 
-Comment Jouer:
+### Comment jouer:
 Lancer la page `index.html`
-ou rendez-vous sur `https://ororrr.github.io/chasse-serpents`
+ou cliquez [ici](https://ororrr.github.io/chasse-serpents).
+
+Déplacer Steph grâce aux touches ZQSD et le robot grâce aux flèches.
+
+### But du jeu: 
+Vous devez survivre le plus longtemps possible en tuant un maximum de serpents.
+
+La partie s'arrête lorsque les serpents on dévorés toutes vos rations de nouriture.
 
 ___
 
-Jeu réaliser lors de la nuit de l'info 2018.
+Jeu réalisé lors de la nuit de l'info 2018.
 
 Liste des défis réalisés :
 
-- ### La totale
-Le défi de la nuit de l'info 2018
+- *La totale :* Le défi de la nuit de l'info 2018
 
-- ### Création d’un jeu vidéo d’arcade
-Le totem VIPI destructeur de serpents, dans un super jeu d'arcade!
+- *Création d’un jeu vidéo d’arcade :* Le totem VIPI destructeur de serpents, dans un super jeu d'arcade!
 
-- ### Canvas à tout va!
-Un canva, qui permet de jouer à un jeu :)
+- *Canvas à tout va! :* Un canva, qui permet de jouer à un jeu :)
 
-- ### Piñata Lama !
-Une piñata qui apparaît grâce à un Konami Code
+- *Piñata Lama ! :* Une piñata qui apparaît grâce à un Konami Code
 
-- ### Lâchez vous dans les commentaires !
-Quelques commentaires drôles
+- *Lâchez vous dans les commentaires ! :* Quelques commentaires drôles
