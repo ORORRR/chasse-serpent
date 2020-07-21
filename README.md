@@ -16,7 +16,7 @@ La partie s'arrête lorsque les serpents on dévorés toutes vos rations de nour
 
 ___
 
-Jeu réalisé lors de la nuit de l'info 2018.
+### Jeu réalisé lors de la nuit de l'info 2018.
 
 Liste des défis réalisés :
 
