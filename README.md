@@ -2,6 +2,9 @@ Chasse serpents est un jeu d'arcade, dans lequel vous incarné Steph, un explora
 
 ___
 
+![Chasse Serpents Demo](./chasse-serpents-demo.gif "Chasse Serpents Demo")
+___
+
 
 ### Comment jouer:
 Lancer la page `index.html`
