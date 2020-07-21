@@ -199,7 +199,7 @@ function RobotUI() {
         //titre
         ctx.font = '50px serif';
         ctx.fillStyle = 'Black';
-        ctx.fillText('Jeu en Pause', screenX + 320, screenY + 100);
+        ctx.fillText('Jeu en pause', screenX + 320, screenY + 100);
 
         let buttonHeight = 100;
         let buttonWidth = 400;
@@ -215,7 +215,7 @@ function RobotUI() {
         ctx.stroke();
         //button resume text
         ctx.fillStyle = 'Black';
-        ctx.fillText('Continuer', screenX + buttonXOffset+ 125, screenY + 210);
+        ctx.fillText('Continuer', screenX + buttonXOffset+ 95, screenY + 210);
 
         //button Restart white background
         ctx.roundRect(screenX + buttonXOffset, screenY + 300, buttonWidth, buttonHeight, 25);
@@ -227,7 +227,7 @@ function RobotUI() {
         ctx.stroke();
         //button restart text
         ctx.fillStyle = 'Black';
-        ctx.fillText('Recommencer', screenX + buttonXOffset+125, screenY + 360);
+        ctx.fillText('Recommencer', screenX + buttonXOffset+70, screenY + 360);
 
         //pause the game
         game.pause();
