@@ -3,10 +3,10 @@ Chasse serpents est un jeu d'arcade, dans lequel vous incarné Steph, un explora
 ___
 
 ### Comment jouer:
-Lancer la page `index.html`
-ou cliquez [ici](https://ororrr.github.io/chasse-serpents).
+Lancez la page `index.html`
+ou visitez à [https://ororrr.github.io/chasse-serpents](https://ororrr.github.io/chasse-serpents).
 
-Déplacer Steph grâce aux touches ZQSD et le robot grâce aux flèches.
+Déplacez Steph grâce aux touches ZQSD et le robot grâce aux flèches.
 
 ### But du jeu: 
 Vous devez survivre le plus longtemps possible en tuant un maximum de serpents.
