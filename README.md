@@ -4,7 +4,7 @@ ___
 
 ### Comment jouer:
 Lancez la page `index.html`
-ou visitez à [https://ororrr.github.io/chasse-serpents](https://ororrr.github.io/chasse-serpents).
+ou visitez [https://ororrr.github.io/chasse-serpents](https://ororrr.github.io/chasse-serpents).
 
 Déplacez Steph grâce aux touches ZQSD et le robot grâce aux flèches.
 
